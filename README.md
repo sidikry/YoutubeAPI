@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# youtube
-youtubeapi
 =======
 # YoutubeAPI
 Play Video From Youtube Use Api
